@@ -1,0 +1,11 @@
+Hola Github, esta es mi primera practica en esta plataforma 
+
+Colores de arcoiris
+
+rojo 
+naranja
+amarillo 
+verde
+azul
+morado
+violeta
